@@ -35,7 +35,7 @@
 ```
 [usm_notes]
 [usm_notes priority="high"]
-[usm_notes before_date="2025-04-30"]
+[usm_notes before_date="2025-03-13"]
 [usm_notes priority="medium" before_date="2025-06-01"]
 ```
 
@@ -62,6 +62,21 @@ usm-notes/
     ├── columns.php        # Кастомные колонки и сортировка
     └── shortcode.php      # Шорткод [usm_notes]
 ```
+## Скриншоты
+### Раздел: Добавить новую заметку
+![Рисунок 1](screenshots/01.png)
+### Иерархические приоритеты
+![Рисунок 2](screenshots/02.png)
+### Тестовые данные
+![Рисунок 3](screenshots/03.png)
+### Графическое отабражение приоритетов
+![Рисунок 4](screenshots/04.png)
+### Шорткод: [usm_notes]
+![Рисунок 5](screenshots/05.png)
+### Шорткод: [usm_notes priority="high"]
+![Рисунок 6](screenshots/06.png)
+### Шорткод: [usm_notes before_date="2025-03-13"]
+![Рисунок 7](screenshots/07.png)
 
 ---
 
